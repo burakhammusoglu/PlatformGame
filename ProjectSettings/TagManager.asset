@@ -13,8 +13,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - zemin
+  - karekter
   - 
   - 
   - 
@@ -40,4 +40,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: zeminler
+    uniqueID: 2114205331
+    locked: 0
+  - name: karekter
+    uniqueID: 3869563591
     locked: 0
